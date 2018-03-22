@@ -3,12 +3,12 @@ public class HelloGit {
 
 	public static void main(String[] args) {
 		System.out.println("1_hello_git");
-		//1. hotfix Ãß°¡ ÈÄ ¸¶½ºÅÍ ºê·»Ä¡ ¼öÁ¤
+		//1. hotfix ì¶”ê°€ í›„ ë§ˆìŠ¤í„° ë¸Œë Œì¹˜ ìˆ˜ì •
 		
 		System.out.println("2_add_hotfix");
 		//2. m
 		
-		System.out.println("3_add master");
+		System.out.println("FINISH");
 	
 	}
 }
